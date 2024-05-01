@@ -1,0 +1,155 @@
+:root {
+    --js-keyword-color: #f1c40f;
+    --js-string-color: #e74c3c;
+    --js-number-color: #9b59b6;
+    --js-function-color: #2980b9;
+    --js-variable-color: #7f8c8d;
+    --js-comment-color: #95a5a6;
+    --js-object-color: #3498db;
+    --js-array-color: #9b59b6;
+    --js-method-color: #2ecc71;
+    --js-operator-color: #e74c3c;
+    --js-constructor-color: #9b59b6;
+    --js-prototype-color: #2980b9;
+    --js-arrow-function-color: #2ecc71;
+    --js-promise-color: #e74c3c;
+    --js-async-color: #f1c40f;
+    --js-await-color: #f1c40f;
+    --js-class-color: #3498db;
+    --js-module-color: #9b59b6;
+    --js-import-color: #2ecc71;
+    --js-export-color: #2ecc71;
+    --js-this-color: #e74c3c;
+    --js-undefined-color: #7f8c8d;
+    --js-null-color: #7f8c8d;
+    --js-boolean-color: #9b59b6;
+    --js-regex-color: #2ecc71;
+    --js-template-literal-color: #e74c3c;
+}
+
+.js-keyword {
+    color: var(--js-keyword-color);
+    font-weight: bold;
+}
+
+.js-string {
+    color: var(--js-string-color);
+}
+
+.js-number {
+    color: var(--js-number-color);
+}
+
+.js-function {
+    color: var(--js-function-color);
+    font-weight: bold;
+}
+
+.js-variable {
+    color: var(--js-variable-color);
+}
+
+.js-comment {
+    color: var(--js-comment-color);
+    font-style: italic;
+}
+
+.js-object {
+    color: var(--js-object-color);
+    font-weight: bold;
+}
+
+.js-array {
+    color: var(--js-array-color);
+    font-weight: bold;
+}
+
+.js-method {
+    color: var(--js-method-color);
+    font-weight: bold;
+}
+
+.js-operator {
+    color: var(--js-operator-color);
+    font-weight: bold;
+}
+
+.js-constructor {
+    color: var(--js-constructor-color);
+    font-weight: bold;
+}
+
+.js-prototype {
+    color: var(--js-prototype-color);
+    font-weight: bold;
+}
+
+.js-arrow-function {
+    color: var(--js-arrow-function-color);
+    font-weight: bold;
+}
+
+.js-promise {
+    color: var(--js-promise-color);
+    font-weight: bold;
+}
+
+.js-async {
+    color: var(--js-async-color);
+    font-weight: bold;
+}
+
+.js-await {
+    color: var(--js-await-color);
+    font-weight: bold;
+}
+
+.js-class {
+    color: var(--js-class-color);
+    font-weight: bold;
+}
+
+.js-module {
+    color: var(--js-module-color);
+    font-weight: bold;
+}
+
+.js-import {
+    color: var(--js-import-color);
+    font-weight: bold;
+}
+
+.js-export {
+    color: var(--js-export-color);
+    font-weight: bold;
+}
+
+.js-this {
+    color: var(--js-this-color);
+    font-weight: bold;
+}
+
+.js-undefined {
+    color: var(--js-undefined-color);
+    font-weight: bold;
+}
+
+.js-null {
+    color: var(--js-null-color);
+    font-weight: bold;
+}
+
+.js-boolean {
+    color: var(--js-boolean-color);
+    font-weight: bold;
+}
+
+.js-regex {
+    color: var(--js-regex-color);
+    font-weight: bold;
+}
+
+.js-template-literal {
+    color: var(--js-template-literal-color);
+    font-weight: bold;
+}
